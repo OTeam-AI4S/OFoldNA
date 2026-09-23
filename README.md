@@ -6,4 +6,4 @@ OFoldNA is an all-atom diffusion model for nucleic acid folding and protein–nu
 
 ## Code release
 
-**The source code will be released on October 1, 2026.**
+**The source code will be released around October 2026.**
